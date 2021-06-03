@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="#-Consumindo API no FrontEnd">Consumindo API no FrontEnd</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Consumindo API no BackEnd">Consumindo API no BackEnd</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Consumindo API no FrontEnd">API FrontEnd</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Consumindo API no BackEnd">API BackEnd</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-DOM Events">DOM Events</a>
 </p>
 
